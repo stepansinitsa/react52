@@ -1,0 +1,187 @@
+.container {
+  display: flex;
+  flex-direction: column;
+} 
+
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  margin-left: 150px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  margin-left: 150px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  white-space: nowrap;
+  font-size: 20px;
+  font-weight: bold;
+}
+.title p {
+  margin-right: 15px;
+  text-align: center;
+}
+
+.title ul {
+  display: flex;
+  list-style-type: none;
+  margin-left: 170px;
+  text-align: center;
+}
+
+.title ul li {
+  margin-right: 15px;
+  text-align: center;
+}
+
+.high-news {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.high-news ul {
+  list-style-type: none;
+  margin-left: 90px;
+  text-align: left;
+}
+
+.exchange-rates {
+  display: flex;
+}
+
+.exchange-rates ul {
+  display: flex;
+  list-style-type: none;
+  margin-left: 90px;
+}
+
+.exchange-rates ul li {
+  margin-right: 15px;
+}
+
+.news-items {
+  display: flex;
+}
+
+.news-items ul {
+  display: flex;
+  list-style-type: none;
+  margin-left: 90px;
+}
+
+.news-items ul li {
+  margin-right: 15px;
+}
+
+.aside {
+  top: 18%;
+  left: 65%;
+  position: absolute;
+  width: 290px;
+}
+
+.aside p {
+  text-align: left;
+  padding-left: 120px;
+  white-space: nowrap;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-menu {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.search-input {
+  width: 700px;
+  height: 40px;
+  margin-left: 280px;
+}
+
+.button {
+  width: 70px;
+  height: 45px;
+  margin-left: 10px;
+  
+
+}
+
+.footer {
+  display: flex;
+  margin-top: 50px;
+  margin-left: 240px;
+}
+
+.clue-input {
+  margin-top: 15px;
+  margin-right: 170px;
+  margin-bottom: 15px;
+}
+
+.logo {
+  position: absolute;
+  top: 36%;
+  left: 29%;
+  object-fit: cover;
+}
+
+.logo2 {
+  width: 700px;
+  height: 100px;
+  margin-left: 280px;
+}
+
+.logo3 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.temperature {
+  display: flex;
+  flex-direction: row;
+}
+
+.current-temperature {
+  padding-top: 20px;
+  margin-right: 20px;
+}
+
+.low-news-container {
+  text-align: left;
+}
+
+.low-news {
+  padding-left: 40px;
+  margin-right: 80px;
+}
+
+.low-news-title {
+  display: flex;
+  white-space: nowrap;
+}
+
+.weather-news-description {
+  display: flex;
+  font-size: 14px;
+}
+
+.weather-news-description ul {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  white-space: nowrap;
+}
+  
